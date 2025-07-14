@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1752502917",layout:"default",error:a,serverRendered:true,routePath:"\u002Fcharity-donation",config:{name:"Patrick Shaun Riley",dates:"May 19th 1955 - July 10th 2025",_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null));
