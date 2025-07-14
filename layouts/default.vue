@@ -6,7 +6,7 @@
 
 <style lang="scss">
 $highlight: #97B067;
-$highlightmuted: #E3DE61;
+$highlightmuted: #437057;
 $background: #2F5249;
 
 html {
