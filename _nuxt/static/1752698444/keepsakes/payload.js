@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/keepsakes", {data:[{}],fetch:{},mutations:void 0});
