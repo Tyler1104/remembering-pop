@@ -6,35 +6,13 @@
     <div class="section details">
       <!-- CONTENT START -->
       <h1 class="title">Services</h1>
-      <!-- <p><em>Thursday 28th January 2021</em> Due to COVID-19 the services are restricted in the number of people allowed. The plan is to live stream the services so everyone who wants to attend will be able to do so virtually. We will also hold a celebration of Lyns life later in the year when COVID-19 restrictions are relaxed.</p> -->
-      <p class="highlight">Service date, time and location is currently undecided. Please check back later.</p>
-      <!-- <h2>Church Service <span>10:30am</span></h2>
+      
+      <h2>Celebration of Life <span>11:00am</span></h2>
       <ul class="fa-ul">
-        <ListItem>Service starts at 10:30am at Church Address</ListItem>
-        <ListItem>Entrance music: And Can It Be</ListItem>
-        <ListItem>Scripture reading</ListItem>
-        <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Song: Goodness of God</ListItem>
-        <ListItem>Tributes - Family &amp; Friends</ListItem>
-        <ListItem>Few moments of quiet</ListItem>
-        <ListItem>Short message</ListItem>
-        <ListItem>Prayer of Commendation</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
-        <ListItem>Exit music: New Wine</ListItem>
+        <ListItem>THe celebration is taking place in the Bradley Community Hall on 8/9/25</ListItem>
+        <ListItem>Food starts at <span>~1:00pm</span></ListItem>
+        <ListItem>Come in your best hawaiian shirt, blue jeans, sunglasses and handkerchief.</ListItem>
       </ul>
-      <h2>Crematorium <span>12:00pm</span></h2>
-      <ul class="fa-ul">
-        <ListItem>Service starts at 12pm at Crematorium address</ListItem>
-        <ListItem>Entrance music: And Can It Be</ListItem>
-        <ListItem>Scripture reading - Psalm 61 v1-4</ListItem>
-        <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Tribute</ListItem>
-        <ListItem>Few moments of quiet</ListItem>
-        <ListItem>Short message</ListItem>
-        <ListItem>Committal</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
-        <ListItem>Exit music: New Wine</ListItem>
-      </ul> -->
       <!-- CONTENT END -->
     </div>
   </div>
